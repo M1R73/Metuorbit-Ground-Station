@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>marker.png</file>
+        <file>uydu_new.png</file>
+    </qresource>
+</RCC>

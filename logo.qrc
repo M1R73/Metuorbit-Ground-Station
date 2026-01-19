@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/logo">
+        <file>metuorlogo.jpg</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
