@@ -1,5 +1,5 @@
 🛰️ TMUY2025 Model Uydu Yer İstasyonu Yazılımı
-Bu proje, TEKNOFEST 2025 Model Uydu Yarışması (TMUY2025) kapsamında Takım 138 için geliştirilmiş olan Yer İstasyonu Arayüzü (GUI) yazılımıdır.
+Bu proje, TEKNOFEST 2025 Model Uydu Yarışması (TMUY2025) kapsamında  geliştirilmiş olan Yer İstasyonu Arayüzü (GUI) yazılımıdır.
 
 Yazılım, model uydudan gelen telemetri verilerini seri port üzerinden okur, ayrıştırır, görselleştirir ve kayıt altına alır. Aynı zamanda yer istasyonu kamerasından görüntü alıp kayıt yapma yeteneğine sahiptir.
 
@@ -49,14 +49,6 @@ QCustomPlot: Grafik çizimleri için kullanılmıştır.
 
 OpenStreetMap (QML): Konum takibi için.
 
-📦 Kurulum ve Derleme
-Projeyi klonlayın veya indirin.
-
-Bilgisayarınızda Qt Creator ve gerekli Qt kitlerinin (MSVC veya MinGW) yüklü olduğundan emin olun.
-
-QCustomPlot kütüphanesinin qcustomplot.h ve qcustomplot.cpp dosyalarının proje dizininde olduğundan emin olun.
-
-Projeyi Qt Creator ile açın ve derleyin (Build & Run).
 
 🖥️ Kullanım Talimatları
 Port Seçimi: Sol üstteki menüden uydunun bağlı olduğu COM portunu seçin.
