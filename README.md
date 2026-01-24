@@ -50,14 +50,5 @@ QCustomPlot: Grafik çizimleri için kullanılmıştır.
 OpenStreetMap (QML): Konum takibi için.
 
 
-🖥️ Kullanım Talimatları
-Port Seçimi: Sol üstteki menüden uydunun bağlı olduğu COM portunu seçin.
-
-Bağlan: "Open Port" butonuna basarak bağlantıyı başlatın. Buton yeşil olduğunda bağlantı başarılıdır.
-
-Kamera: "Source Cam" menüsünden kameranızı seçin ve "Play/Record" ikonuna basarak görüntü almayı ve kaydı başlatın.
-
-Ayrılma: Gerekli durumda manuel ayrılma komutu göndermek için ilgili portu seçip kırmızı butonu kullanın.
-
 📊 Telemetri Formatı
 Yazılım, verileri şu sırayla virgülle ayrılmış (CSV) olarak bekler: <PKT_NO>, <STATU>, <HATA_KODU>, <SAAT>, <BASINC1>, <BASINC2>, <YUKSEKLIK1>, <YUKSEKLIK2>, <FARK>, <INIS_HIZI>, <SICAKLIK>, <PIL>, <GPS_LAT>, <GPS_LONG>, <GPS_ALT>, <PITCH>, <ROLL>, <YAW>, <RHRH>, <IOT1>, <IOT2>, <TAKIM_NO>
