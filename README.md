@@ -3,6 +3,10 @@ Bu proje, TEKNOFEST 2025 Model Uydu Yarışması (TMUY2025) kapsamında  gelişt
 
 Yazılım, model uydudan gelen telemetri verilerini seri port üzerinden okur, ayrıştırır, görselleştirir ve kayıt altına alır. Aynı zamanda yer istasyonu kamerasından görüntü alıp kayıt yapma yeteneğine sahiptir.
 
+---
+![Yer İstasyonu Arayüzü](Resources/interface_preview.png)
+---
+
 🚀 Özellikler
 1. Seri Port Haberleşmesi ve Telemetri
 Otomatik Port Algılama: Bilgisayara bağlı aktif COM portlarını listeler.
